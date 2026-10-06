@@ -5,7 +5,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/adore-salon-website/',
+    base: '/adore-salon-website-/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
