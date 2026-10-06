@@ -1,0 +1,6 @@
+{
+  "name": "Adore Salon | Luxury Hair, Beauty & Grooming Salon",
+  "description": "Adore Salon offers premium hair, beauty and grooming services including hair color, balayage, styling, facial, body massage, waxing, haircuts and beard grooming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
